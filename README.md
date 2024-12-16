@@ -1,0 +1,4 @@
+# Sistemas de comunicación alternativa y aumentativa para personas con diversas patologías de comunicación y movilidad (CAAN)
+## Neufitech + Instituto de Ciencias Humanas, Sociales y Ambientales (INCIHUSA) + CONICET
+La iniciativa busca mejorar la accesibilidad de personas con diversas patologías de comunicación y movilidad, a partir del desarrollo herramientas de comunicación alternativa y aumentativa. Incorporando Aprendizaje Automático, se diseñará sistemas optimizados para la comunicación del usuario, a partir de respuestas recolectadas en los distintos contextos de uso. A su vez, se usarán técnicas de Procesamiento de Lenguaje Natural para interpretar la entrada oral del interlocutor y así preparar un menú de respuestas basadas en un corpus de textos previamente incorporados.
+###### Link al vídeo de presentación del proyecto: https://youtu.be/Q4CMxo9XIO0
